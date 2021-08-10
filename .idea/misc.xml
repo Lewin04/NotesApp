@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/add_image.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/card_curve_bg.xml" value="0.1125" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/card_selected_bg.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/ic_keyboard_backspace_black_24dp.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/ic_notifications_active_black_24dp.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/notes_pined.xml" value="0.1125" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/notes_settings.xml" value="0.1125" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/notes_share.xml" value="0.1125" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/drawable/sp_bg.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/activity_note_list.xml" value="0.1" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/activity_update1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/addnotes.xml" value="0.1" />
+        <entry key="..\:/Users/God/AndroidStudioProjects/Todo_App/app/src/main/res/layout/remimder_list.xml" value="0.25" />
+        <entry key="..\:/Users/God/AppData/Local/Android/Sdk/platforms/android-29/data/res/layout/simple_dropdown_item_1line.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
