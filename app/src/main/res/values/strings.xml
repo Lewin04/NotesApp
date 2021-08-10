@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo_App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quotes"> True happiness consists not in the multitude of friends, but in the worth and choice.So be Memorable and make your Fun!!.. </string>
+</resources>
